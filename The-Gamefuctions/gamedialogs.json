@@ -1,0 +1,82 @@
+[
+	{
+		"title": "Start",
+		"tags": "",
+		"body": "What are you going to do?\nA(Search the room for clues[[Search the room for clues]]\nB(Try to go through the wall[[Try to go through the wall]]\nC(Do nothing[[Do nothing]]",
+		"position": {
+			"x": 610,
+			"y": -133
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Search the room for clues",
+		"tags": "",
+		"body": "You found nothing.",
+		"position": {
+			"x": 296,
+			"y": 148
+		},
+		"colorID": 8
+	},
+	{
+		"title": "Do nothing",
+		"tags": "",
+		"body": "You did nothing.",
+		"position": {
+			"x": 611,
+			"y": 146
+		},
+		"colorID": 1
+	},
+	{
+		"title": "Check pockets",
+		"tags": "",
+		"body": "You found your phone.\nA(Check your phone[[check phone]]\nB(Put your phone back",
+		"position": {
+			"x": 1455,
+			"y": -227
+		},
+		"colorID": 2
+	},
+	{
+		"title": "Try to go through the wall",
+		"tags": "",
+		"body": "Your hand wont go through the wall\nYou realize your stuck in this \"room\"",
+		"position": {
+			"x": 891,
+			"y": 145
+		},
+		"colorID": 0
+	},
+	{
+		"title": "check phone",
+		"tags": "",
+		"body": "You have no signal and no wifi\nA(put your phone back\nB(smash him against the wall",
+		"position": {
+			"x": 1454,
+			"y": 78
+		},
+		"colorID": 2
+	},
+	{
+		"title": "choice1",
+		"tags": "",
+		"body": "What are you going to do\nA(Try to search the other rooms[[Search the room for clues]]\nB(Walk through the rooms\nC(do nothing[[Do nothing]]",
+		"position": {
+			"x": 613,
+			"y": 430
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Walk through the rooms",
+		"tags": "",
+		"body": "all the same rooms that lead to other rooms that are the same",
+		"position": {
+			"x": 1009,
+			"y": 481
+		},
+		"colorID": 0
+	}
+]
